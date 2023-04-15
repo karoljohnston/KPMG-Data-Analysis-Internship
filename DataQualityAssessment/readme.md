@@ -25,3 +25,15 @@ Assessing the data:<br>
           - There are no deceased customers - therefore, that column is not relevant <br>
           - All customers are from Australia - there is no point of having a 'country' column<br>
       
+- CustomerDemographic sheet: <br>
+          - There are 125 last names were not listed<br>
+          - Gender consists of 'F' , 'Female' , 'M' , 'Male' data which is the same thing and needs to be changed<br>
+          - 4 customers did not put their birthdates <br>
+          - 16 customers did not specify their job title <br>
+          - Default & indicator column had to be deleted as it was blank and some consists of special character <br>
+          - 87 blank tenure <br>
+          
+- CustomerAddress sheet: <br>
+          - State column consists of 'NSW' , 'New South Wales' , 'VIC' , 'Victoria' data which is the same thing and needs to be changed <br>
+          - All customers are from Australia - there is no point of having a 'country' column<br>
+    
