@@ -37,3 +37,4 @@ Assessing the data:<br>
           - State column consists of 'NSW' , 'New South Wales' , 'VIC' , 'Victoria' data which is the same thing and needs to be changed <br>
           - All customers are from Australia - there is no point of having a 'country' column<br>
     
+    I have attached the clean data in this folder
